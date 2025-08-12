@@ -3,13 +3,13 @@
 - NodeJS: Versión 22.x
 - Run App: npm run start
 
-## Table with skeleton loader
+## Frontend Mentor - Tajeta de producto
 
-Product card
+Web estática de tarjeta de producto
 
 ## Name
 
-web estáticas 
+Product Card
 
 ## Description
 
@@ -20,6 +20,7 @@ Muestra la información estática de un producto aplicado en E-Commerce
 - Dependencias: npm run install
 
 ## Usage
+
 - React versión 19.x
 
 ## Support 
